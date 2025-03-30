@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Hello Losers: Welcome to my blog
 ---
 
